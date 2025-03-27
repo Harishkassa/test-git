@@ -1,0 +1,5 @@
+fvenv/
+static/
+.env
+EventsPhotos/
+Group_Photo/
